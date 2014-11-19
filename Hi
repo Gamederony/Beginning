@@ -1,3 +1,5 @@
+<!DOCTYPEhtml>
+<html>
 <body>
 <h1 style="red"><strong> "Beginning" </strong></h1>
 
@@ -8,9 +10,13 @@ var begin = "begin.length"
 if ("begin" === 5){
 print {"Time to begin." + begin
 
+} else if ("begin === 6){
+print {"Hey"}
+
 } else {
 print {Hi.
 }
+
 </p2>
 </body>
 
@@ -20,3 +26,4 @@ padding 3%;
 position absolute;
 background-color: blue;
 }
+</html>
