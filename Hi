@@ -1,0 +1,12 @@
+<h1 style="red"> Beginning </h1>
+
+<p1> This is just a small project to help me understand coding. </p1>
+
+var begin = "begin.length"
+
+if ("begin" === 5){
+print {"Time to begin."
+
+} else {
+print {Hi.
+}
