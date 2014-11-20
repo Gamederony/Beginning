@@ -1,7 +1,20 @@
 <!DOCTYPE html>
 <html>
+<head> 
+<style>
+.contentblock {
+opacity: 0.8;
+padding: 3%;
+position: absolute;
+background-color: blue;
+}
+h1 {
+color: red
+}
+</style>
+</head>
 <body>
-<h1 style="red"><strong> "Beginning" </strong></h1>
+<h1><strong> "Beginning" </strong></h1>
 
 <p1><i> "This is just a small project to help me understand coding." </i></p1>
 
@@ -20,10 +33,4 @@ print {Hi.
 </p2>
 </body>
 
-.contentblock {
-opacity .8;
-padding 3%;
-position absolute;
-background-color: blue;
-}
 </html>
